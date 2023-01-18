@@ -232,7 +232,7 @@ font-weight: bolder;
                 display: none;
             }
     
-        @media screen and (max-width: 600px) {
+        @media screen and (max-width: 991px) {
             .topnav a {
                 display: none;
             }
@@ -247,7 +247,7 @@ font-weight: bolder;
             }
         }
     
-        @media screen and (max-width: 600px) {
+        @media screen and (max-width: 991px) {
             .topnav.responsive {
                 position: relative;
                 z-index: 999999;
